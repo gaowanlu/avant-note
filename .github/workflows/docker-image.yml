@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE: ${{ secrets.DOCKER_HUB_USER }}/avant
+  IMAGE: ${{ secrets.DOCKER_HUB_USER }}/avant-note
 
 jobs:
 
