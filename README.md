@@ -1,5 +1,7 @@
 # Avant
 
+[![Docker Image CI](https://github.com/gaowanlu/avant-note/actions/workflows/docker-image.yml/badge.svg)](https://github.com/gaowanlu/avant-note/actions/workflows/docker-image.yml)
+
 Network Message Framework For Linux C++.
 
 cpp-version: `C++20`  
